@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 <!--
-**AnjaliSuman3011/AnjaliSuman3011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AnjaliSuman3011/AnjaliSuman3011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 🔭 I’m currently working on: 
 Javascript , React Js , React Hooks , Redux ,
@@ -18,4 +18,4 @@ Serverless and GraphQL and Docker.
 
 ⚡ Fun fact:
 I love writing content writing on Quora.
--->
+
