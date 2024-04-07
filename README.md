@@ -5,14 +5,18 @@
 <!--
 **AnjaliSuman3011/AnjaliSuman3011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on: 
+Javascript , React Js , React Hooks , Redux ,
+NodeJS , Express Js , MongoDB , PostgreSQL ,   HTTP / HTTPS , RESTful APIs , Websockets , CORS , MVC
+Architecture , CI/CD.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👯 I’m looking to collaborate on:
+Fullstack projects
+
+🌱 I’m currently learning:
+Serverless and GraphQL and Docker.
+
+
+⚡ Fun fact:
+I love writing content writing on Quora.
 -->
