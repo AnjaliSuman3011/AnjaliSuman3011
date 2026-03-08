@@ -1,58 +1,46 @@
+# Hi, I'm Anjali Suman 👋
 
-💫 About Me:
+Product-focused technologist passionate about building **AI-powered automation systems and data-driven products**.  
+Currently working as an **Associate Product Manager at Crio.do**, building conversational AI systems and growth experimentation frameworks.
 
-<!--
-**AnjaliSuman3011/AnjaliSuman3011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+---
 
-🔭 I’m currently working on:
-Javascript , React Js , React Hooks , Redux ,
-NodeJS , Express Js , MongoDB , PostgreSQL ,   HTTP / HTTPS , RESTful APIs , Websockets , CORS , MVC
-Architecture , CI/CD.
+## 🚀 What I Work On
 
-👯 I’m looking to collaborate on:
-Fullstack projects
+• AI-driven workflow automation  
+• Conversational AI systems  
+• Product experimentation & growth optimization  
+• CRM & API integrations  
+• Data-driven product decisions  
 
-🌱 I’m currently learning:
-Serverless and GraphQL and Docker.
+---
 
-⚡ Fun fact:
-I love writing content writing on Quora.
+## 💼 Current Work
 
-🌐 Socials:
-<div id="badges">
-  <a href="[https://www.linkedin.com/in/anjali-suman3011/]">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- <a href ="[https://github.com/AnjaliSuman3011]">
-         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
-<a href ="[ ]">
-         <img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="[link to your Medium profile]">
-    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
-  </a>
-</div>
+**Associate Product Manager — Crio.do**
 
+- Built an **AI-powered lead qualification system** processing ~60,000 leads/month
+- Improved **lead → payment conversion from 2.5% → 6.31%**
+- Designed conversational flows and automated follow-up workflows using AI
+- Built analytics-driven frameworks to improve engagement and placements
 
-💻 Tech Stack:
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
- </p>
+Previously worked at **ClearTax** delivering **enterprise ERP integrations (SAP, Oracle Fusion, Microsoft F&O)**.
 
-📊 GitHub Stats:
+---
 
+## 🛠 Tech & Product Stack
+
+**Product:**  
+Product Discovery • PRDs • Feature Prioritization • Experimentation • A/B Testing
+
+**AI & Automation:**  
+Conversational AI • Prompt Engineering • Workflow Automation • API Integrations
+
+**Tools:**  
+Figma • Google Analytics • Metabase • Microsoft Clarity • WebEngage
+
+**Technical:**  
+Python • SQL • JavaScript • Node.js • REST APIs
 
 ![AnjaliSuman3011's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnjaliSuman3011&theme=vue-dark&hide_border=true)
 ![AnjaliSuman3011's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliSuman3011&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
