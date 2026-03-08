@@ -1,11 +1,10 @@
-# Hi, I'm Anjali Suman 👋
+# Hi, I'm Anjali Suman 
 
 Product-focused technologist passionate about building **AI-powered automation systems and data-driven products**.  
 Currently working as an **Associate Product Manager at Crio.do**, building conversational AI systems and growth experimentation frameworks.
 
----
-
-## 🚀 What I Work On
+ 
+## What I Work On
 
 • AI-driven workflow automation  
 • Conversational AI systems  
@@ -13,9 +12,7 @@ Currently working as an **Associate Product Manager at Crio.do**, building conve
 • CRM & API integrations  
 • Data-driven product decisions  
 
----
-
-## 💼 Current Work
+ Current Work
 
 **Associate Product Manager — Crio.do**
 
@@ -26,9 +23,9 @@ Currently working as an **Associate Product Manager at Crio.do**, building conve
 
 Previously worked at **ClearTax** delivering **enterprise ERP integrations (SAP, Oracle Fusion, Microsoft F&O)**.
 
----
 
-## 🛠 Tech & Product Stack
+
+## Tech & Product Stack
 
 **Product:**  
 Product Discovery • PRDs • Feature Prioritization • Experimentation • A/B Testing
