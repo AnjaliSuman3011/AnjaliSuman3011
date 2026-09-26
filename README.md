@@ -90,18 +90,6 @@ A portfolio reconstruction of enterprise e-invoicing workflows informed by exper
 
 ---
 
-## Currently Building
-
-**EV — Personal AI Assistant**
-
-Exploring persistent AI context, conversational interfaces, tool use, and workflow automation through a personal AI assistant.
-
-**Interview Intelligence Engine**
-
-Building a structured system for company intelligence, interview-question retrieval, similarity matching, evidence classification, and automated preparation-pack generation.
-
----
-
 ## Research
 
 **Designing an AI-Driven Intelligent Tutorial System**
