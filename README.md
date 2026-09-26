@@ -6,7 +6,7 @@ I work at the intersection of **Product, AI, Automation, Analytics, and Technica
 
 Currently, I'm an **Associate Product Manager at Crio.do**, where I work across AI automation, growth, learner outcomes, and operational efficiency.
 
-## 🚀 What I Build
+##  What I Build
 
 - 🤖 **AI & Conversational Products** — voice automation, AI-assisted workflows, evaluation systems
 - 📊 **Product Analytics** — funnels, experimentation, conversion analysis, dashboards, product metrics
