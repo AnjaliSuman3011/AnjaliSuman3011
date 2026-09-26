@@ -108,4 +108,4 @@ My approach is simple:
 
 ---
 
-[LinkedIn](#) · [Portfolio](#) · [Substack](#)
+[LinkedIn](https://www.linkedin.com/in/anjali-suman3011/) · [Portfolio](https://teal-serif-studio.lovable.app/#projects) · [Substack](https://substack.com/@anjalisuman)
